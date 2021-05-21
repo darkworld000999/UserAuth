@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">105142118978-42eotm830eschhsqrf0l3d7k1j76kh0i.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">105142118978</string>
+    <string name="google_api_key" translatable="false">AIzaSyAxnft3_jFNTHFydovqXOGJ7afJAjrcf-E</string>
+    <string name="google_app_id" translatable="false">1:105142118978:android:3d26bb207c55fc270e9bdb</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAxnft3_jFNTHFydovqXOGJ7afJAjrcf-E</string>
+    <string name="google_storage_bucket" translatable="false">baatdilki-1b224.appspot.com</string>
+    <string name="project_id" translatable="false">baatdilki-1b224</string>
+</resources>
